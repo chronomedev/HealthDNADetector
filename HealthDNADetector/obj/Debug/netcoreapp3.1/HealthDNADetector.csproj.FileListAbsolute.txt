@@ -1,0 +1,13 @@
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\bin\Debug\netcoreapp3.1\HealthDNADetector.exe
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\bin\Debug\netcoreapp3.1\HealthDNADetector.deps.json
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\bin\Debug\netcoreapp3.1\HealthDNADetector.runtimeconfig.json
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\bin\Debug\netcoreapp3.1\HealthDNADetector.runtimeconfig.dev.json
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\bin\Debug\netcoreapp3.1\HealthDNADetector.dll
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\bin\Debug\netcoreapp3.1\HealthDNADetector.pdb
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\obj\Debug\netcoreapp3.1\HealthDNADetector.csprojAssemblyReference.cache
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\obj\Debug\netcoreapp3.1\HealthDNADetector.AssemblyInfoInputs.cache
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\obj\Debug\netcoreapp3.1\HealthDNADetector.AssemblyInfo.cs
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\obj\Debug\netcoreapp3.1\HealthDNADetector.csproj.CoreCompileInputs.cache
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\obj\Debug\netcoreapp3.1\HealthDNADetector.dll
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\obj\Debug\netcoreapp3.1\HealthDNADetector.pdb
+C:\Users\Hansrenee\source\repos\HealthDNADetector\HealthDNADetector\obj\Debug\netcoreapp3.1\HealthDNADetector.genruntimeconfig.cache
